@@ -9,3 +9,10 @@
   a. Create database SQL
   b. Logic for counting votes via different methodologies.
   c.
+
+
+IBM IOT tech talk:
+
+- PROMO CODE TO EXTEND BLUEMIX TRIAL PROMOCODES.MYBLUMIX.NET hackARIZONA
+  - NEVER LET ACCT EXPIRE
+- IBM COURSERA COURSE Intro to internet of things
