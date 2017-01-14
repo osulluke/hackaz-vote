@@ -10,7 +10,7 @@ CREATE TABLE voter
 CREATE TABLE candidate 
 	(candidate_id		INT					NOT NULL AUTO_INCREMENT,
      candidate_name		CHAR(50)			NOT NULL,
-     candidate_pic		BLOB				NOT NULL,
+     candidate_pic		BLOB				NULL,
      CONSTRAINT			PK_candidate		PRIMARY KEY(candidate_id));
 
 CREATE TABLE plurality_vote
