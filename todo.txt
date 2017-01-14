@@ -1,0 +1,11 @@
+#Here is a list of items and subtasks to work on.
+
+1. Webpage
+  a. Outline/basic structure
+  b. Pictures for 'candidates' (cartoon characters)
+  c. Code that will interact with the database
+
+2. Database 
+  a. Create database SQL
+  b. Logic for counting votes via different methodologies.
+  c.
