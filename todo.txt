@@ -16,3 +16,10 @@ IBM IOT tech talk:
 - PROMO CODE TO EXTEND BLUEMIX TRIAL PROMOCODES.MYBLUMIX.NET hackARIZONA
   - NEVER LET ACCT EXPIRE
 - IBM COURSERA COURSE Intro to internet of things
+
+MICROSOFT HOLOLENS
+
+- Microsoft's new tech; will run any apps written for any windows platform
+- Theyre not really sure what its for, giving it to the community
+- Works with WINDOWS 10 and you can write apps in any number of languages, including unity
+- Also runs apps on any device that will run the 'HOLOGRAPHIC PLATFORM'
