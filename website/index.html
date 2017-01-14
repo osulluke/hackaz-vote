@@ -4,6 +4,20 @@
 <head>
     <title>Voting methods</title>
 </head>
+<?php
+  $servername = "localhost";
+  $username = "root";
+  $password = "root";
+
+  // Create connection
+  $conn = new mysqli($servername, $username, $password);
+
+  // Check connection
+  if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+  }
+  echo "Connected successfully";
+?>
 
 <body>
 
@@ -20,6 +34,12 @@
 
     <form action="submit_vote.php">
         Candidate Preference (highest = #1; last = #10): <br>
+        <input type="number" name="preference" min="1" max="10"><br>
+        <input type="number" name="preference" min="1" max="10"><br>
+        <input type="number" name="preference" min="1" max="10"><br>
+        <input type="number" name="preference" min="1" max="10"><br>
+        <input type="number" name="preference" min="1" max="10"><br>
+        <input type="number" name="preference" min="1" max="10"><br>
         <input type="number" name="preference" min="1" max="10"><br>
         <input type="number" name="preference" min="1" max="10"><br>
         <input type="number" name="preference" min="1" max="10"><br>
